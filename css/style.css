@@ -1,0 +1,509 @@
+/* ===== Reset & Base ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #1a1a1a;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ===== Layout ===== */
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ===== Header ===== */
+.site-header {
+  padding: 48px 0 40px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-header h1 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #111;
+  letter-spacing: -0.5px;
+}
+
+.site-header .subtitle {
+  font-size: 15px;
+  color: #666;
+  margin-top: 4px;
+}
+
+/* ===== Typography ===== */
+h1, h2, h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #111;
+}
+
+h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin: 48px 0 16px;
+  letter-spacing: -0.3px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 24px 0 8px;
+  color: #333;
+}
+
+p {
+  margin: 0 0 16px;
+  color: #333;
+}
+
+a {
+  color: #1a6bca;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul, ol {
+  margin: 0 0 16px;
+  padding-left: 24px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* ===== Intro ===== */
+.intro {
+  padding: 40px 0 0;
+}
+
+.intro > p {
+  font-size: 17px;
+  color: #444;
+}
+
+/* ===== Table of Contents ===== */
+.toc {
+  margin: 32px 0;
+  padding: 24px;
+  background: #fafafa;
+  border: 1px solid #eee;
+}
+
+.toc h3 {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #888;
+  margin: 0 0 12px;
+}
+
+.toc ol {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.toc li {
+  margin-bottom: 4px;
+  font-size: 15px;
+}
+
+.toc a {
+  color: #1a6bca;
+}
+
+/* ===== Comparison Table ===== */
+.table-wrap {
+  margin: 32px 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid #e5e5e5;
+}
+
+.table-summary {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  min-width: 640px;
+}
+
+.table-summary thead th {
+  background: #fafafa;
+  border-bottom: 2px solid #e5e5e5;
+  padding: 12px 10px;
+  font-weight: 600;
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.table-summary thead th:first-child {
+  text-align: left;
+  min-width: 140px;
+}
+
+.table-summary td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #f0f0f0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table-summary td:first-child {
+  text-align: left;
+  font-weight: 500;
+  color: #333;
+}
+
+.table-summary tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.table-summary tbody tr:hover {
+  background: #fafafa;
+}
+
+/* Category rows */
+.table-summary .category td {
+  background: #f5f5f5;
+  font-weight: 700;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #666;
+  padding: 6px 10px;
+}
+
+/* Company header cells */
+.company-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.company-logo {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.company-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #111;
+  text-decoration: none;
+}
+
+.company-name:hover {
+  color: #1a6bca;
+}
+
+/* Checkmarks and X marks */
+.check {
+  color: #16a34a;
+  font-weight: 700;
+}
+
+.cross {
+  color: #ccc;
+  font-weight: 400;
+}
+
+.price-row td {
+  font-weight: 600;
+  color: #111;
+}
+
+/* Star ratings */
+.rating-row td {
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+/* ===== Product Cards ===== */
+.product-section {
+  padding: 40px 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.product-section:last-of-type {
+  border-bottom: none;
+}
+
+.product-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.product-header img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+.product-header h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.product-screenshot {
+  width: 100%;
+  height: auto;
+  border: 1px solid #e5e5e5;
+  margin: 16px 0 24px;
+}
+
+/* Pros & Cons */
+.pros-cons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.pros, .cons {
+  padding: 16px;
+  font-size: 15px;
+}
+
+.pros {
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+}
+
+.cons {
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+}
+
+.pros h4, .cons h4 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 0 0 8px;
+}
+
+.pros h4 {
+  color: #16a34a;
+}
+
+.cons h4 {
+  color: #dc2626;
+}
+
+.pros ul, .cons ul {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.pros li, .cons li {
+  margin-bottom: 4px;
+  font-size: 14px;
+  color: #444;
+}
+
+/* Pricing badge */
+.pricing-badge {
+  display: inline-block;
+  background: #f5f5f5;
+  border: 1px solid #e5e5e5;
+  padding: 6px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+  margin: 8px 0 16px;
+}
+
+/* "Best for" tag */
+.best-for {
+  font-size: 14px;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 16px;
+}
+
+/* ===== How It Works ===== */
+.how-it-works {
+  padding: 40px 0;
+}
+
+.how-it-works ol {
+  padding-left: 20px;
+}
+
+.how-it-works li {
+  margin-bottom: 10px;
+  color: #444;
+}
+
+/* ===== Verdict / Bottom CTA ===== */
+.verdict {
+  padding: 40px 0;
+  border-top: 1px solid #e5e5e5;
+}
+
+.verdict ul {
+  list-style: none;
+  padding: 0;
+}
+
+.verdict li {
+  padding: 8px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 16px;
+}
+
+.verdict li:last-child {
+  border-bottom: none;
+}
+
+/* ===== Methodology ===== */
+.methodology {
+  padding: 32px 0;
+  border-top: 1px solid #e5e5e5;
+}
+
+.methodology p {
+  font-size: 15px;
+  color: #666;
+}
+
+/* ===== Footer ===== */
+.footer {
+  padding: 32px 0;
+  border-top: 1px solid #e5e5e5;
+  font-size: 13px;
+  color: #999;
+}
+
+/* ===== User Reviews ===== */
+.review-block {
+  margin: 24px 0;
+}
+
+.review-block h3 {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #888;
+  margin: 0 0 12px;
+}
+
+.review-card {
+  background: #fafafa;
+  border: 1px solid #eee;
+  padding: 16px 20px;
+  margin-bottom: 12px;
+}
+
+.review-card p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  font-style: italic;
+}
+
+.review-source {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #999;
+  font-style: normal;
+}
+
+.review-source .source-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.source-reddit {
+  background: #fff3e0;
+  color: #e65100;
+}
+
+.source-trustpilot {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.source-study {
+  background: #e3f2fd;
+  color: #1565c0;
+}
+
+/* Data callout */
+.data-callout {
+  background: #f0f4ff;
+  border-left: 3px solid #1a6bca;
+  padding: 16px 20px;
+  margin: 24px 0;
+}
+
+.data-callout p {
+  font-size: 15px;
+  color: #333;
+  margin: 0;
+}
+
+.data-callout .stat {
+  font-weight: 700;
+  color: #111;
+}
+
+/* ===== Dividers ===== */
+hr {
+  border: none;
+  height: 1px;
+  background: #e5e5e5;
+  margin: 0;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 640px) {
+  .site-header h1 {
+    font-size: 26px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  .pros-cons {
+    grid-template-columns: 1fr;
+  }
+
+  .product-header h2 {
+    font-size: 20px;
+  }
+
+  body {
+    font-size: 16px;
+  }
+}
