@@ -1,0 +1,276 @@
+# DeleteMe Alternatives - Full Data
+
+> Complete product data, pricing, pros/cons, and review quotes for all 6 data removal services compared on deletemealternatives.com
+
+Last updated: March 2026
+
+---
+
+## 1. DeleteMe
+
+- Website: https://joindeleteme.com/
+- Price: From $8.71/mo
+- Tagline: Best for simple setup and brand trust
+- Availability: USA and Europe
+- Recurring removals: Yes
+- Manual removal option: No
+- Free scan: No
+- Family plan: Yes
+- Money-back guarantee: No
+- 24/7 support: Yes
+- Trustpilot: ~4.0/5 across ~1,200 reviews
+
+### Consumer Reports Data
+- 27% removal rate after four months (lowest among seven services tested)
+
+### Pros
+- Simple, fast onboarding
+- Strong brand reputation
+- Covers the most dangerous data brokers
+- Available in USA and Europe
+- 24/7 customer support
+
+### Cons
+- Lowest removal rate in Consumer Reports study
+- No money-back guarantee
+- No manual removal controls
+- Limited to 10 requests per quarter
+- Some users report missed listings
+
+### User Reviews
+- "Since that time over 175 sites have been scoured off my record on my benefit by the team at DELETE ME." (Trustpilot, Virginia, March 2025)
+- "When I tell you there were only 2 out of the 85 that had the personal info removed...I am not exaggerating." (Trustpilot, Tara, November 2025)
+- "There were many sites that they missed. My information is still out there. They limit you to 10 requests per quarter." (Trustpilot, Keith, September 2025)
+- "I've used DeleteMe for 2+ years. Aside from voter records, nothing is out there anymore." (Reddit, r/privacy)
+
+---
+
+## 2. Incogni
+
+- Website: https://incogni.com/
+- Price: From $7.99/mo (billed annually)
+- Tagline: Best for hands-off, automated privacy
+- Availability: USA, EU, UK, Canada
+- Recurring removals: Yes
+- Manual removal option: No
+- Free scan: No
+- Family plan: Yes
+- Money-back guarantee: Yes
+- 24/7 support: Yes
+- Trustpilot: 4.4/5 across ~2,000 reviews
+- Backed by: Surfshark
+
+### Key Data
+- 420+ data brokers covered (verified by independent Deloitte audit)
+- Over 245 million successful removals
+- Broadest geographic availability among compared services
+
+### Pros
+- 420+ data broker coverage (Deloitte audited)
+- Clean dashboard and monthly reports
+- Backed by Surfshark
+- Broadest geographic availability
+- Money-back guarantee
+- 4.4/5 Trustpilot rating
+
+### Cons
+- No manual removal controls
+- No free scan
+- No mobile app
+- Some users report AI-generated reports
+
+### User Reviews
+- "I went from receiving many emails a day to receiving none. It does take time to have your data removed but it's worth every penny." (Trustpilot, Cian Fleetwood, March 2026)
+- "I've noticed significantly fewer spam texts and calls." (Trustpilot, Ceci, March 2026)
+- "I was getting more emails than ever. The report they give you monthly is probably AI generated." (Trustpilot, Nobby Clarke, March 2026)
+- "Budget-friendly and effective. Set it and forget it." (Reddit, r/privacy)
+
+---
+
+## 3. Kanary
+
+- Website: https://www.kanary.com/
+- Price: From $14.99/mo
+- Tagline: Best for deep coverage and hands-on control
+- Availability: USA only
+- Recurring removals: Yes
+- Manual removal option: Yes
+- Free scan: No
+- Family plan: Yes
+- Money-back guarantee: Yes
+- 24/7 support: No
+- Trustpilot: Limited reviews
+
+### Key Data
+- Largest broker list among compared services
+- Most accurate exposure detection
+- 48-hour first progress report (vs 7 days for DeleteMe)
+- Full removals take 30 to 90 days
+- TechRadar testing found only 6 removals after 2 weeks
+
+### Pros
+- Largest broker list
+- High-accuracy exposure detection
+- Manual removal controls
+- Fast initial progress report (48 hours)
+- Free trial available
+
+### Cons
+- More expensive than competitors
+- Full removal takes 30-90 days
+- Steeper learning curve
+- No 24/7 support
+- USA only
+
+### User Reviews
+- "Everything worked as promised, although it took about 3-6 months to remove at least 80% of the information." (Trustpilot, NK, October 2025)
+- "The last 20% of information, including on very famous sites they promised to take care of, was not removed." (Trustpilot, NK, October 2025)
+- "They cover the largest list of brokers and offer the highest number of accurate exposures. Free trial was a plus for testing it out." (Reddit, r/privacy)
+
+---
+
+## 4. Optery
+
+- Website: https://www.optery.com/
+- Price: From $3.99/mo
+- Tagline: Best for budget-conscious users
+- Availability: USA only
+- Recurring removals: Yes
+- Manual removal option: Yes
+- Free scan: Yes
+- Family plan: No
+- Money-back guarantee: Yes
+- 24/7 support: Yes
+- Trustpilot: Mixed reviews
+
+### Consumer Reports Data
+- Best performer among all tested services
+- Scored 41 percentage points higher than DeleteMe in removal rate
+- Scored 3 percentage points better than runner-up EasyOptOuts
+
+### Key Data
+- Ultimate plan runs about $25/mo for full automation
+- One user went from 150 broker listings to 23 within months
+- Others report spam calls dropping from 5-10/day to nearly zero
+
+### Pros
+- Lowest starting price at $3.99/mo
+- Free scan included
+- Best performer in Consumer Reports study
+- Manual + automated options
+- Money-back guarantee
+
+### Cons
+- No family plan
+- Some users report slow response times
+- Hard to verify removal claims
+- USA only
+
+### User Reviews
+- "Within months, they successfully reduced these listings from 150 to just 23. I've experienced a significant decrease in spam emails and unsolicited sales calls." (Trustpilot, Ani, June 2025)
+- "I used to get between 5 and 10 robocalls per day but not anymore. I purchased the ultimate plan. I recommend it highly." (Trustpilot, Vern, August 2025)
+- "The best $25 a month you can spend to remove your personal information from the data broker world and become an online ghost." (Trustpilot, Todd, January 2026)
+- "There is no way to verify that the actions they claim to take have actually been taken. I saw little to no apparent progress in 6 months' time." (Trustpilot, Joe B, February 2026)
+- "They still haven't removed my profile. I paid in December. It is now March. They took forever to respond to my emails." (Trustpilot, Lisa R, March 2026)
+
+---
+
+## 5. Aura
+
+- Website: https://www.aura.com/
+- Price: From $12/mo
+- Tagline: Best for all-in-one identity protection
+- Availability: USA only
+- Recurring removals: No
+- Manual removal option: No
+- Free scan: No
+- Family plan: Yes
+- Money-back guarantee: Yes
+- 24/7 support: Yes
+- Trustpilot: Mixed reviews
+
+### Key Data
+- Full identity protection suite (not just data removal)
+- Covers roughly 140 to 200 data broker sites
+- Does NOT cover Spokeo, BeenVerified, or Intelius
+- Does not support custom removal requests
+- Includes spam blocking, phishing protection, free data checker
+
+### Pros
+- Polished, easy-to-use interface
+- Broader security features (phishing, identity theft)
+- Family plan available
+- Money-back guarantee
+- Caught brokers other services missed
+
+### Cons
+- No recurring automated removals
+- No manual opt-out controls
+- Doesn't cover Spokeo, BeenVerified, Intelius
+- Unexpected renewal price hikes
+- No way to verify removal claims
+- USA only
+
+### User Reviews
+- "Aura actively works to remove my personal information from data broker sites, which gives me confidence that my privacy is being protected." (Trustpilot, Gil M, December 2025)
+- "I added Aura alongside DeleteMe to see if it would catch brokers DeleteMe missed. It did." (Reddit, r/privacy)
+- "Sent hundreds of opt-outs but there is no way of fact-checking. No proof of actual work." (Reddit, r/privacy)
+- "I was shocked when my annual membership suddenly jumped from $120 to $199 without warning." (Trustpilot, Anonymous user)
+
+---
+
+## 6. Dataseal
+
+- Website: https://dataseal.io/
+- Price: From $12.99/mo
+- Tagline: Best for hands-on support and ease of use
+- Availability: USA only
+- Recurring removals: Yes
+- Manual removal option: Yes
+- Free scan: No
+- Family plan: Yes
+- Money-back guarantee: Yes
+- 24/7 support: Yes
+- Trustpilot: Good reviews overall
+
+### Key Data
+- Formerly run by the same team behind data broker ThatsThem (parent company "Durt Holdings")
+- Discontinued affiliate relationship with people search sites in August 2023
+- Conflict of interest widely documented by Optery and discussed on r/privacy
+
+### Pros
+- Responsive customer support
+- Intuitive dashboard
+- Manual + automated removals
+- Money-back guarantee
+- Some users see fast results
+
+### Cons
+- Former ties to data broker industry
+- Inconsistent removal results
+- No free scan
+- Possible duplicate removal reporting
+- No way to close account on website
+- USA only
+
+### User Reviews
+- "Within 3 months, I was nearly impossible to find." (Trustpilot, Andrew Lis, March 2026)
+- "Either Intelius just adds my data back again immediately after it's removed, or DataSeal keeps reporting the same removal over and over." (Trustpilot, Michael, March 2026)
+- "They only removed 66 out of 198 records." (Trustpilot, Al, September 2023)
+- "No visibility or transparency about which websites they're removing your information from." (Trustpilot, Anonymous user, July 2026)
+
+---
+
+## Methodology
+
+We tested each service ourselves, read hundreds of user reviews on Reddit (r/privacy, r/personalfinance, r/cybersecurity) and Trustpilot, and referenced the Consumer Reports data removal study. We also consulted expert reviews from Security.org, TechRadar, CyberInsider, and Cybernews.
+
+Pricing, features, and availability are current as of March 2026.
+
+## Important Context
+
+- Data brokers have up to 45 days to comply with removal requests
+- Most services need 30 to 90 days to show full results
+- Data brokers constantly re-scrape public records, so data comes back if you stop the service
+- Consumer Reports found that manual opt-out requests achieved a 70% removal rate after four months
+- Automated services ranged from roughly 27% (DeleteMe) to the high 60s (Optery)

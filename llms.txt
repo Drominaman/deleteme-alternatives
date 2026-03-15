@@ -1,0 +1,36 @@
+# DeleteMe Alternatives
+
+> Independent comparison of the best DeleteMe alternatives for personal data removal in 2026
+
+## About This Site
+
+DeleteMe Alternatives is an independent review site that tests and compares data removal services. We read hundreds of user reviews on Reddit and Trustpilot, tested each service ourselves, and referenced the Consumer Reports data removal study.
+
+## Pages
+
+- [Home](https://deletemealternatives.com/) - Main comparison of 6 data removal services
+- [DeleteMe vs Incogni](https://deletemealternatives.com/deleteme-vs-incogni) - Head-to-head comparison
+- [DeleteMe vs Optery](https://deletemealternatives.com/deleteme-vs-optery) - Head-to-head comparison
+- [DeleteMe vs Kanary](https://deletemealternatives.com/deleteme-vs-kanary) - Head-to-head comparison
+- [DeleteMe vs Aura](https://deletemealternatives.com/deleteme-vs-aura) - Head-to-head comparison
+- [DeleteMe vs Dataseal](https://deletemealternatives.com/deleteme-vs-dataseal) - Head-to-head comparison
+- [Affiliate Disclosure](https://deletemealternatives.com/disclosure) - FTC-compliant affiliate disclosure
+
+## Key Findings
+
+- Consumer Reports found that manual opt-out requests achieved a 70% removal rate after four months
+- Optery performed best among all tested services in the Consumer Reports study
+- DeleteMe removed only 27% of profiles after four months (lowest among tested services)
+- Incogni covers 420+ data brokers, verified by an independent Deloitte audit
+- Kanary has the largest broker list and most accurate exposure detection
+- Aura is a full identity protection suite, not just data removal
+- Dataseal was formerly operated by the same team behind the data broker ThatsThem
+
+## Services Compared
+
+1. DeleteMe - $8.71/mo - The original data removal service
+2. Incogni - $7.99/mo - Best for hands-off automation
+3. Kanary - $14.99/mo - Deepest broker coverage
+4. Optery - $3.99/mo - Best budget option and top Consumer Reports performer
+5. Aura - $12/mo - Best all-in-one identity protection
+6. Dataseal - $12.99/mo - Best customer support
