@@ -50,6 +50,10 @@ Optery is the cheapest DeleteMe alternative, starting at $3.99/mo. It also offer
 
 Yes. Data brokers constantly re-scrape public records, so your information will reappear if you stop using the service. This is why most services offer recurring removal subscriptions to continuously monitor and re-submit opt-out requests.
 
+## How much does DeleteMe cost?
+
+DeleteMe costs $10.75 per month for 1 person, billed annually at $129 per year. There is no monthly billing option. The 2-year plan drops to $8.71/mo ($209 total). The Couple plan covers 2 people for $229/year, and the Family plan covers 4 people for $329/year. A Premium plan at $180/year adds bi-monthly reports and 60 custom removals. DeleteMe does not offer a money-back guarantee.
+
 ## About This Site
 
 DeleteMe Alternatives is an independent review site that tests and compares data removal services. We read hundreds of user reviews on Reddit and Trustpilot, tested each service ourselves, and referenced the Consumer Reports data removal study.
@@ -57,6 +61,7 @@ DeleteMe Alternatives is an independent review site that tests and compares data
 ## Pages
 
 - [Home](https://deletemealternatives.com/) - Main comparison of 6 data removal services
+- [DeleteMe Cost](https://deletemealternatives.com/deleteme-cost) - Full pricing breakdown and cheaper alternatives
 - [DeleteMe vs Incogni](https://deletemealternatives.com/deleteme-vs-incogni) - Head-to-head comparison
 - [DeleteMe vs Optery](https://deletemealternatives.com/deleteme-vs-optery) - Head-to-head comparison
 - [DeleteMe vs Kanary](https://deletemealternatives.com/deleteme-vs-kanary) - Head-to-head comparison
